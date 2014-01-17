@@ -8,7 +8,7 @@
 
 ## Assignments
 
-See [Assignments](./assignments/)
+See [Classes](./classes/)
 
 ## Evaluation Criteria
 
