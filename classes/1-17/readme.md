@@ -6,6 +6,7 @@
 * Intro to Ruby - Kevin
 * [Try Ruby](http://tryruby.org/)
 * Intro to Rails - Mitch
+* Review first assignment
 
 ## Setup your development environment
 
