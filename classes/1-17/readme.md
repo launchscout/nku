@@ -22,6 +22,7 @@
 ```
 git clone git@github.com:gaslight/nku-rails
 cd nku-rails
+bundle install
 rails server
 ```
 
