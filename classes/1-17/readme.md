@@ -15,6 +15,7 @@
   3. Click the `Skip Intro` button
   4. Create new box with your first and last name (ie: `Kevin Rockwood`)
   5. Add `rockwood` and `mitchlloyd` as collaborators to your box
+  6. Click "Reaveal Public Key" and then click "Add to Github"
   6. click the `IDE` button on your box
   7. In the console, run the following commands:
 
