@@ -26,6 +26,6 @@ bundle install
 rails server
 ```
 
-Click the `Preview` button to see your running app!
+Click `Preview` and select `Port 3000` to see your running app!
 
 You're now ready to start [the first assignment](./assignments/1-17-assignment.md)
