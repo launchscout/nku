@@ -20,6 +20,8 @@
     * Rails Helpers
     * Object-Oriented Programming in Rails
 
+* Debugging tools
+
 
 ## Migrate your Nitrous.io box
 
