@@ -36,7 +36,7 @@ So that I can use Bueller
    edit each of their attributes.
 
 3. Once the student submits the form, they arrive back at the homepage where
-   they see their updated information and a message telling them that they have
+   they see their updated information and a [flash message](http://guides.rubyonrails.org/action_controller_overview.html#the-flash) telling them that they have
    successfully updated their profile.
 
 ```
