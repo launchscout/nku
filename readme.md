@@ -10,6 +10,12 @@
 
 See [Classes](./classes/)
 
+Each week, we'll publish the solution to the previous weeks assignment on the
+[nku-rails Github Repo](https://github.com/gaslight/nku-rails)
+
+There's also have a publicly availible [Demo app](http://nku-rails.herokuapp.com)
+for viewing the completed assignments
+
 ## Evaluation Criteria
 
 We're not talking attendance, but we might give a pop quiz to strike fear into your heart.
