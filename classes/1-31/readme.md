@@ -10,6 +10,8 @@
 * Thanks to the Github issue helpers! Make sure to watch the repo
 
 * Code Demo - How do we do it?
+  * Top Down Design
+  * Using error messages
 
 * Lecture Part 1 - Migrations
 
