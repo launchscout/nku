@@ -26,6 +26,7 @@
   * Advanced validations
   * ActiveRecord queries
   * The Rails console
+  * Generators - Time to stop using them
 
 * Design
   * What should I save in the database vs generate?
