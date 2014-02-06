@@ -22,6 +22,8 @@
 
 * What should I save in the database vs generate
 
+* The Rails console
+
 * Pair programming
 
 * Cleaning up your code
