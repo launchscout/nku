@@ -1,3 +1,5 @@
+> **Notice**: This assignment is going to be updated on 2/8/2014, so you may want to hold off any work until you see this notice go away.
+
 # Bueller? ... Bueller?
 
 due: 2/14/2014
