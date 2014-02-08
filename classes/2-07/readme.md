@@ -1,5 +1,3 @@
-> **Notice**: This assignment is going to be updated on 2/8/2014, so you may want to hold off any work until you see this notice go away.
-
 # Class 3
 
 ## Schedule
@@ -27,6 +25,7 @@
 * Rails
   * Advanced validations
   * ActiveRecord queries
+
   * The Rails console
   * Generators - Time to stop using them
 
