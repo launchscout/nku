@@ -1,4 +1,4 @@
-# Class 3
+# Class 4
 
 ## Schedule
 
