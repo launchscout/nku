@@ -54,6 +54,11 @@ FactoryGirl.define do
   end
 end
 
+FactoryGirl.define do
+  factory :attendance do
+  end
+end
+
 describe Student do
   let(:now) { Date.today }
 
