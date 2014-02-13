@@ -30,15 +30,7 @@
   * Generators - Time to stop using them
 
 * Design
-  * What should I save in the database vs generate?
-  * Dependency Injection
-  * Pair programming
   * Test driven development
-
-* Assignment 3 Prep
-  * Cleaning up your code
-  * Review assignment 3 spec
-  * Q & A and spec clarification
 
 ## TDD Exercise
 
