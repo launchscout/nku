@@ -33,7 +33,7 @@ So that my teacher knows I'm there
    **Note:** Although you could use the created_at timestamp to show when
    students logged their attendance this is not recommended as it will increase
    the overall difficulty of the assignment, make testing more difficult, and
-   make the code more harder to modify in the future. You should create your own
+   make the code harder to modify in the future. You should create your own
    field (attended_on) to log the attendance date.
 
    **Note:** Students do not enter their names to log their attendance. You
