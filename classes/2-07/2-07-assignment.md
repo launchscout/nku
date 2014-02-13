@@ -48,3 +48,5 @@ students on a given day. In short, if you get the spec passing without
 substantially changing it, you've probably accomplished this. Success will earn
 you one bonus point.
 
+The bonus will be due by class time on 2/14 so that we can provide the solution
+in class.
