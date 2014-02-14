@@ -18,12 +18,14 @@ So that I know who is in class
 2. On the student index page a user sees all of the students in class today
    laid out in their given seat like this:
 
+```
     +-------------+-------------+
     |Student 1    |             |
     |Student 2    |             |
     +-------------+-------------+
     |Student 3    |             |
     +-------------+-------------+
+```
 
    where student 1 and student 2 are seat 1 today and student 3 is in seat 3
    today.
