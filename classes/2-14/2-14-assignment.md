@@ -70,3 +70,18 @@ So that I can see where students are sitting
    "Hello") they see an error message telling them that their seat number must be
    a number.
 
+**.in_seat and .absent Methods**
+
+These methods will be important for letting you list your students correctly. Adapt these to fit your code:
+
+```ruby
+def self.in_seat(seat, date)
+  Student.joins(:attendances).where(attendances: {seat: seat, attended_on: date})
+end
+
+def self.absent(date)
+  Student.joins(:attendances).where.not(attendances: {attended_on: date})
+end
+```
+
+Solution curtousy of @blasten.
