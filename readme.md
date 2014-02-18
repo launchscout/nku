@@ -13,7 +13,7 @@ See [Classes](./classes/)
 Each week, we'll publish the solution to the previous weeks assignment on the
 [nku-rails Github Repo](https://github.com/gaslight/nku-rails)
 
-There's also have a publicly availible [Demo app](http://nku-rails.herokuapp.com)
+There's also a publicly availible [Demo app](http://nku-rails.herokuapp.com)
 for viewing the completed assignments
 
 ## Evaluation Criteria
