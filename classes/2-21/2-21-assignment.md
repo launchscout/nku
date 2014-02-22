@@ -18,6 +18,9 @@ So that I can see who was in class on a given day
 
 4. The datepicker should always default to the currently selected date
 
+5. **1pt Bonus:** impliment a javascript datepicker for cross-browser support
+
+
 **Note:** It is suffiecient to use `<input type="date">`
 
 
@@ -31,7 +34,7 @@ So that I can see what classes a student has attended
 
 1. When any user visits the student index page, they see a link to view all attendances
 
-2. On the attendances index page, a any user can click on a student's name to view attendances for that student only
+2. On the attendances index page, a user can click on a student's name to view attendances for that student only
 
-3. Clicking a link displays the attendances index page with a list of attendances for only that student
+3. Clicking a link displays the attendances index page with a list of attendances for that student only
 
