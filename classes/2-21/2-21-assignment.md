@@ -23,8 +23,7 @@ So that I can see who was in class on a given day
 
 ```
 As a user
-On the students index page I want the date field to default to the currently
-selected day
+On the students index page I want the date field to default to the currently selected day
 So I know what day's attendance I'm looking at
 ```
 
