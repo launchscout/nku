@@ -93,4 +93,5 @@ look for anything that doesn't meet specifications from previous assignments.
     includes user provided files (if you have any), log files, or any kind of
     user input. Most students don't have any issue with this currently.
 
+15. You're server should be configured to be in the eastern time zone.
 
