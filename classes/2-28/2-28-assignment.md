@@ -8,8 +8,7 @@ specifications were never documented in the assignments. Step through each one o
 and make sure it is met. When we grade this one we'll step through this list and
 look for anything that doesn't meet specifications from previous assignments.
 
-1. Name your project folder nku-rails and make sure it is at the root level in
-   your box.
+1. Name your project folder `nku-rails`.
 
    Many students have created different folders in their Nitrous.io box, which is
    totally fine. The only problem is that it is sometimes hard to tell which
