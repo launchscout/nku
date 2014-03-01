@@ -94,3 +94,5 @@ look for anything that doesn't meet specifications from previous assignments.
 
 15) You're server should be configured to be in the eastern time zone.
 
+16) You should have no inappropriate camelCasing in your code.
+
