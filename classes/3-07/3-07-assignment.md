@@ -27,9 +27,11 @@ redirects the user back to the students index page
 redirected to the homepage with a flash message saying: "Unauthorized"
 
 **Notes:**
-  * There's no need to create an additional table for administrators
 
-``` As a student I want to see my scores for each assignment So that I can know
+You can either add an attribute to your current Student/User model to
+indicate that they are an administrator or you can create a new model.
+
+``` As a student I want to see my scores for each assignment so that I can know
 how I'm doing in the class ```
 
 1. When signed in as a student, the student sees the link "My Assignments"
