@@ -22,8 +22,9 @@ So that students can know their scores for each assignment
 
 4. Submitting the form creates an assignment for the selected student and redirects the user back to the students index page
 
+5. Non-admin users who attempt to visit the assigments/new page will be redirected to the homepage with a flash message saying: "Unauthorized"
+
 **Notes:**
-  * Only administrators are allowed to create assignments.
   * There's no need to create an additional table for administrators
 
 ```
