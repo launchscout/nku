@@ -58,3 +58,11 @@ how I'm doing ```
 1. When a student views their list of assignments, they see their current
    average grade for the assignment labeled: "Current Grade".
 
+``` As an administrator I want to see students grades so that I know how they
+are doing in the class ```
+
+1. When signed in as an administrator I click on "All Assignments" and I see a list
+   of all the assignments in the system.
+
+2. When I select a student from a select control and hit filter, I only see
+   grades for the student that I selected.
