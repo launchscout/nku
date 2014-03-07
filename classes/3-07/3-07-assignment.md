@@ -45,3 +45,16 @@ columns
   * "Total" - the total possible points for the assignment
   * "Percentage" - the calculated percentage grade on the assignment (example:
     13/15 = 87%)
+
+``` As a student I don't want other students to see my grades so that they don't
+find out how well I'm doing and resent me ```
+
+1. If a student tries to view another's grades by changing the URL, they are
+   somehow prevented from seeing them.
+
+``` As a student I want to see my current grade for the class so I always know
+how I'm doing ```
+
+1. When a student views their list of assignments, they see their current
+   average grade for the assignment labeled: "Current Grade".
+
