@@ -1,6 +1,6 @@
 # Assignment scores
 
-due: 3/14/2014
+due: 3/21/2014
 
 **Creating assignments**
 
