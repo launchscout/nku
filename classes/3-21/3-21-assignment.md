@@ -42,17 +42,19 @@ So that I can quickly add assignments for students
 3. If the administrator uploads a similar CSV file with only one new assignment,
    then only one record will be created.
 
-
-    Email,Assignment Name,Total,Score
-    test2@example.com,assignment2,15,14
-    test3@example.com,assignment2,15,12
+```
+Email,Assignment Name,Total,Score
+test2@example.com,assignment2,15,14
+test3@example.com,assignment2,15,12
+```
 
 4. If the administrator uploads a CSV file that has an updated assignment, that
    assignment will change.
 
-
-    Email,Assignment Name,Total,Score
-    test1@example.com,assignment2,15,15
+```
+Email,Assignment Name,Total,Score
+test1@example.com,assignment2,15,15
+```
 
 Note: for this feature the identity of the assignment depends on the
 combination of its name and email address. So these assignments are considered
